@@ -1,0 +1,2 @@
+# my-cool-repository
+Awesomeness
